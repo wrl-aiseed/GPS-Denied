@@ -1,0 +1,7 @@
+satellite_folder_path = ../dataset/georeference/
+satellite_csv = s_map.csv
+drone_folder_path = ../dataset/query/
+drone_csv = photo_metadata.csv
+results_folder_path = ../dataset/results/
+results_csv = calculated_coordinates.csv
+google_map_api_key = AIzaSyB_rnOXFiUeG4SYzh6UQq3KTDabN1K1byA

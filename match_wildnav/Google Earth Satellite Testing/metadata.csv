@@ -1,0 +1,12 @@
+filename, center_lat, center_lon, zoom, size, scale, maptype
+sat_0001.png, 25.1347115, 121.4773880, 18, 640x640, 2, satellite
+sat_0002.png, 25.1347115, 121.4773880, 18, 320x320, 2, satellite
+sat_0003.png, 25.1347115, 121.4773880, 18, 160x160, 2, satellite
+sat_0004.png, 25.1347115, 121.4773880, 18, 640x640, 1, satellite
+sat_0005.png, 25.1347115, 121.4773880, 18, 640x640, 5, satellite
+sat_0006.png, 25.1347115, 121.4773880, 18, 1280x1280, 2, satellite
+sat_0007.png, 25.1347115, 121.4773880, 19, 640x640, 2, satellite
+sat_0008.png, 25.1347115, 121.4773880, 20, 640x640, 2, satellite
+sat_0009.png, 25.1281243,121.4859582, 18, 640x640, 2, satellite
+sat_0010.png, 25.1281243,121.4859582, 19, 640x640, 2, satellite
+sat_0011.png, 25.1281243,121.4859582, 20, 640x640, 2, satellite
